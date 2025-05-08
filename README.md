@@ -30,3 +30,25 @@ Founder of **Kwakyetech Digital**, a startup focused on:
 
 📫 **Let’s connect!**  
 I'm open to collaboration, mentorship, or just a good chat about finance, tech, or African innovation.
+
+---
+
+# 💻 Technical Skills
+
+#### 🖥️ Web Development
+- HTML5, CSS3, JavaScript
+- Git & GitHub
+- Responsive Design (in progress)
+- UI/UX Design with Figma
+
+#### 📊 Business & Data
+- Business Process Documentation
+- Tax, Audit, Internal Controls
+- Business Analysis & Strategy
+
+#### 🚀 Tools & Platforms
+- ALX Projects (Frontend in progress)
+- Git (Version Control)
+- Figma (Prototyping)
+
+---
