@@ -28,11 +28,6 @@ Founder of **Kwakyetech Digital**, a startup focused on:
 
 ---
 
-📫 **Let’s connect!**  
-I'm open to collaboration, mentorship, or just a good chat about finance, tech, or African innovation.
-
----
-
 # 💻 Technical Skills
 
 #### 🖥️ Web Development
@@ -50,5 +45,10 @@ I'm open to collaboration, mentorship, or just a good chat about finance, tech, 
 - ALX Projects (Frontend in progress)
 - Git (Version Control)
 - Figma (Prototyping)
+
+---
+
+📫 **Let’s connect!**  
+I'm open to collaboration, mentorship, or just a good chat about finance, tech, or African innovation.
 
 ---
