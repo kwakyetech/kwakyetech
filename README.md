@@ -1,36 +1,26 @@
-# 👋 Hi, I'm Prince Kwakye Ofori
+<p align="center">
+  <img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/9f35baa4-4563-4664-a6fa-e506592e58a7" />
+</p>
 
-I'm an Accounting graduate passionate about blending **finance and technology** to solve real-world problems. I bring a strong foundation in **tax, auditing, internal controls**, and **business analysis**, along with a growing skill set in **frontend development** and **digital strategy**.
-
----
-
-### 💼 Professional Background
-- 🏛️ Served at the **Ghana Revenue Authority**, where I:
-  - Led the reorganisation of archival records
-  - Documented key workflows and trained new personnel
-  - Supported process improvement through efficient records systems
-
-### 💻 Tech & Learning Journey
-
-![ALX Professional Foundation](https://img.shields.io/badge/ALX%20Professional%20Foundation-FF0000?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Programming%20with%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/UI%2FUX%20Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Frontend Development](https://img.shields.io/badge/Intro%20to%20Frontend%20Development-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![ALX Frontend](https://img.shields.io/badge/ALX%20Frontend%20%20Developer-FF6F00?style=for-the-badge)
-
-
-### 🚀 Building Kwakyetech Digital
-Founder of **Kwakyetech Digital**, a startup focused on:
-- 🌐 Web Design
-- 📈 SEO Strategy
-- 📲 Digital Marketing for Ghanaian businesses
-
-### 🎯 Goals
-- Become a **Chartered Accountant**
-- Combine **finance** & **tech** to build business solutions
-- Empower entrepreneurs & underserved communities through digital tools
+## Hi, I'm Prince Kwakye Ofori 👋
+I’m a software engineer and aspiring Chartered Accountant passionate about using technology to create practical, impactful solutions for businesses. Currently, I’m focused on building scalable, user-friendly applications that empower entrepreneurs and drive growth in Ghana.
 
 ---
+
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwakyetech&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwakyetech&layout=compact&theme=radical)
+
+<p align="center">
+  <a href="https://x.com/kwakyetech">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/prince-kwakye-ofori-730060195/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://hashnode.com/@kwakyetech">
+    <img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</p>
 
 ## 💻 Technical Skills
 
@@ -59,6 +49,27 @@ Founder of **Kwakyetech Digital**, a startup focused on:
 
 📫 **How to reach me:** [Email](mailto:kwakye792@gmail.com)
 
+---
+
+### 💻 Tech & Learning Journey
+
+![ALX Professional Foundation](https://img.shields.io/badge/ALX%20Professional%20Foundation-FF0000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Programming%20with%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/UI%2FUX%20Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Frontend Development](https://img.shields.io/badge/Intro%20to%20Frontend%20Development-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ALX Frontend](https://img.shields.io/badge/ALX%20Frontend%20%20Developer-FF6F00?style=for-the-badge)
+
+
+### 🚀 Building Kwakyetech Digital
+Founder of **Kwakyetech Digital**, a startup focused on:
+- 🌐 Web Design
+- 📈 SEO Strategy
+- 📲 Digital Marketing for Ghanaian businesses
+
+### 🎯 Goals
+- Become a **Chartered Accountant**
+- Combine **finance** & **tech** to build business solutions
+- Empower entrepreneurs & underserved communities through digital tools
 
 ---
 
